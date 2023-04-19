@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "product": "Golda",
+      "price": "3000",
+      "quantity": 30,
+      "id": 1
+    },
+    {
+      "product": "Kafh Acne",
+      "price": "43000",
+      "quantity": 6,
+      "id": 3
+    }
+  ]
+}
